@@ -1,0 +1,11 @@
+Dependencies for Project 'BlueTooth', Target 'BlueTooth': (DO NOT MODIFY !)
+F (.\startup.s)(0x57020C08)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_BlueTooth-IC:\Users\jumil\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\jumil\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 527" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\UART.c)(0x618C3846)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-I.\RTE\_BlueTooth-IC:\Users\jumil\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\jumil\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="527" -D_RTE_ -DTM4C123GH6PM -Drvmdk -DPART_LM4F120H5QR-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5FD44849)
+I (tm4c123gh6pm.h)(0x51D4D322)
+I (UART.h)(0x60F5D3ED)
+F (.\SetupBLT.c)(0x618C3891)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-I.\RTE\_BlueTooth-IC:\Users\jumil\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\jumil\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="527" -D_RTE_ -DTM4C123GH6PM -Drvmdk -DPART_LM4F120H5QR-o .\setupblt.o --omf_browse .\setupblt.crf --depend .\setupblt.d)
+I (tm4c123gh6pm.h)(0x51D4D322)
+I (UART.h)(0x60F5D3ED)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5FD44849)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5EC848F4)
